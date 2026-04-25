@@ -1,0 +1,6 @@
+{
+  "name": "King Lion Portal",
+  "description": "A secure login system connected to the King Lion user records database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
